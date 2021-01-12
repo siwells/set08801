@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+Welcome to the website for the Web Tech Module at Edinburgh Napier University. It is worth bookmarking this page (as well as the [Git repo](https://github.com/siwells/set08801) or consider cloning it and regularly pulling any changes).
 
-You can use the [editor on GitHub](https://github.com/siwells/set08801/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Many of us will already have experienced some aspect of all of the topics covered in this module. Partly because it is really difficult to engage in modern life without using the web in some capacity and thereby being exposed to the end user experience of being a web user, partly because some aspects of HTML, CSS, and Javascript are taught at various levels throughout school and college as an easy way into technology and coding skills, and partly because the web and it's various technologies are quite accessible. It is quite easy to throw some HTML at a web browser and see the results without needing to deal with the compilers and development environments that most other programming tasks require.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this module we're going to break down our existing web skills, fill in any gaps we identify, and then reassemble everything into a robust and extensible toolkit for building, using, and exploiting web-based technologies. We will mostly work on the client side, developing strong skills for designing and implementing web sites & web applications that run in the user's web browser, but taking some excursions onto the server side along the way so that we can build and implement secure data storage solutions along with the RESTful APIs that allow our browsers to access them. We'll support these skills with knowledge of design and development methodologies that enable us to document and communicate our ideas to others, as well as a practical understanding of the web standards, accessibility, security, and privacy topics that underpin professional operation in this area.
 
-### Markdown
+# Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/siwells/set08801/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Simon Wells @siwells is the module leader for Mobile Application Development. You can contact him via email at s.wells@napier.ac.uk
