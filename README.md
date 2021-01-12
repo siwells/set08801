@@ -1,4 +1,4 @@
-Welcome to the website for the Web Tech Module at Edinburgh Napier University. It is worth bookmarking this page (as well as the [Git repo](https://github.com/siwells/set08801) or consider cloning it and regularly pulling any changes).
+Welcome to the website for the Global Online Web Tech Module run by the [https://www.napier.ac.uk/about-us/our-schools/school-of-computing](School of Computing) at [Edinburgh Napier University](https://www.napier.ac.uk/). It is worth bookmarking this page (as well as the [Git repo](https://github.com/siwells/set08801) or consider cloning it and regularly pulling any changes).
 
 Many of us will already have experienced some aspect of all of the topics covered in this module. Partly because it is really difficult to engage in modern life without using the web in some capacity and thereby being exposed to the end user experience of being a web user, partly because some aspects of HTML, CSS, and Javascript are taught at various levels throughout school and college as an easy way into technology and coding skills, and partly because the web and it's various technologies are quite accessible. It is quite easy to throw some HTML at a web browser and see the results without needing to deal with the compilers and development environments that most other programming tasks require.
 
@@ -6,4 +6,4 @@ In this module we're going to break down our existing web skills, fill in any ga
 
 # Contact
 
-Simon Wells @siwells is the module leader for Mobile Application Development. You can contact him via email at s.wells@napier.ac.uk
+Simon Wells @siwells is the module leader for Web Tech. You can contact him via email at s.wells@napier.ac.uk
